@@ -1,2 +1,2 @@
-# FirstAndroidApp
-First Android app like trivia
+# Coursera_AndroidDevelopment
+Activities from the coursera class:
